@@ -59,3 +59,31 @@ CSharp-OOP-Practice/
 │   └── OrderProcessingApp/
 │
 └── README.md
+```
+## What I Learned
+Through this repository, I practiced:
+
+-- Creating and using classes and objects
+-- Applying encapsulation to protect data
+-- Using inheritance to reuse and extend code
+-- Applying polymorphism through method overriding
+-- Using abstract classes and interfaces
+-- Organizing code into folders and separate responsibilities
+-- Writing cleaner and more readable C# code
+-- Understanding how OOP concepts are used in real applications
+
+
+## Author
+
+**Tasneem Mohamed Kamal Metwally**
+
+Junior C#/.NET Developer | Computer Science Instructor
+
+- **Location:** New Cairo, Egypt
+- **Email:** tasneemmohamed2013@gmail.com
+- **GitHub:** [Tasneem849](https://github.com/Tasneem849)
+- **LinkedIn:** [Tasneem Mohamed](https://www.linkedin.com/in/tasneem-mohamed-7497a3197/)
+
+## Repository Purpose
+
+> This repository was created to document my progress in learning **C#** and **object-oriented programming**, and to showcase my understanding of **OOP concepts** for junior software development opportunities.
