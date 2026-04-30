@@ -87,6 +87,11 @@ Through this repository, I practiced:
 - Writing cleaner and more readable C# code
 - Understanding how OOP concepts are used in real applications
 
+## Future Improvements
+- Add exception handling examples
+- Add LINQ practice examples
+- Add unit tests using xUnit
+- ...
 
 ## Author
 
@@ -101,4 +106,4 @@ Junior C#/.NET Developer | Computer Science Instructor
 
 ## Repository Purpose
 
-> This repository was created to document my progress in learning **C#** and **object-oriented programming**, and to showcase my understanding of **OOP concepts** for junior software development opportunities.
+> This repository was created to document my progress in learning **C#** and **object-oriented programming**, and demonstrates my understanding through practical examples. It supports my goal of becoming a Junior C#/.NET Developer.
