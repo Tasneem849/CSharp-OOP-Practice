@@ -60,17 +60,32 @@ CSharp-OOP-Practice/
 │
 └── README.md
 ```
+
+---
+
+## Projects Overview
+
+| No. | Project | Main Concept | Description |
+|---|---|---|---|
+| 1 | Bank Account App | Classes and Objects | Simulates deposit, withdrawal, and balance checking. |
+| 2 | Student Grades App | Encapsulation | Manages student grades while protecting data using private fields and public methods. |
+| 3 | Employee Management App | Inheritance | Demonstrates base and derived classes using different employee types. |
+| 4 | Shape Calculator App | Polymorphism | Calculates area for different shapes using overridden methods. |
+| 5 | Payment System App | Abstraction | Demonstrates abstract classes and different payment methods. |
+| 6 | Notification System App | Interfaces | Uses interfaces to send different types of notifications. |
+| 7 | Order Processing App | SOLID Principles | Separates order, payment, discount, and notification responsibilities. |
+
 ## What I Learned
 Through this repository, I practiced:
 
--- Creating and using classes and objects
--- Applying encapsulation to protect data
--- Using inheritance to reuse and extend code
--- Applying polymorphism through method overriding
--- Using abstract classes and interfaces
--- Organizing code into folders and separate responsibilities
--- Writing cleaner and more readable C# code
--- Understanding how OOP concepts are used in real applications
+- Creating and using classes and objects
+- Applying encapsulation to protect data
+- Using inheritance to reuse and extend code
+- Applying polymorphism through method overriding
+- Using abstract classes and interfaces
+- Organizing code into folders and separate responsibilities
+- Writing cleaner and more readable C# code
+- Understanding how OOP concepts are used in real applications
 
 
 ## Author
